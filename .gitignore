@@ -1,0 +1,3 @@
+#Ignore all Java class files
+src/*.class
+.env
