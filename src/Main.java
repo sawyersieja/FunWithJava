@@ -16,9 +16,9 @@ public class Main {
         boolean Clojure = false;
 
         System.out.println("Fun with Java!");
-        System.out.println("We going to have fun with vanilla Java!: " + Java);
-        System.out.println("We going to have fun with Kotlin!: " + Kotlin);
-        System.out.println("We going to have fun with Clojure!: " + Clojure);
+        System.out.println("We are going to have fun with vanilla Java!: " + Java);
+        System.out.println("We are going to have fun with Kotlin!: " + Kotlin);
+        System.out.println("We are going to have fun with Clojure!: " + Clojure);
 
         System.out.print(eyes);
         
